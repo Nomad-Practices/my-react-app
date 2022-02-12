@@ -36,5 +36,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "imports": {
+    "@": {
+      "default": "./src"
+    }
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
